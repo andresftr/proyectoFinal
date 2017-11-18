@@ -1,0 +1,56 @@
+[33mcommit 8f4c2abe8b1d4d0d73a1cdccc195452009e90a1c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 60a11f6 eec664f
+Author: Andres <afelipe0113@gmail.com>
+Date:   Sat Nov 18 10:57:57 2017 -0500
+
+    Merge branch 'master' of github.com:andresftr/proyectoFinal.git
+    
+    Este es un commit
+
+[33mcommit 60a11f6cff4d0f666b976472733eebbe7964f6e3[m
+Author: Andres <afelipe0113@gmail.com>
+Date:   Sat Nov 18 10:44:41 2017 -0500
+
+    cambios
+
+[33mcommit 9b1d5a77103b8e1f460d855961d8ca617675d0c2[m
+Author: Andres <afelipe0113@gmail.com>
+Date:   Wed Nov 15 13:25:04 2017 -0500
+
+    subir cambios tabla persona
+
+[33mcommit 5741b6bef2d87b1314b7c9dff544b10e149ee440[m
+Author: Andres <afelipe0113@gmail.com>
+Date:   Wed Nov 15 13:17:42 2017 -0500
+
+    prueba cambios
+
+[33mcommit 52f2c53ec3ea0fac2de0012d7c062e9cc7e4e27c[m
+Author: Andres <afelipe0113@gmail.com>
+Date:   Wed Nov 15 13:02:58 2017 -0500
+
+    agregar primera tabla
+
+[33mcommit 8d0ff3af7e34f1c4f429b974e07294454cc2a57b[m
+Author: Andres <afelipe0113@gmail.com>
+Date:   Wed Nov 15 12:53:06 2017 -0500
+
+    agregacion tabla persona
+
+[33mcommit eec664fb31b035c785dd6fd596f266de196a1ef7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: javier <javieresos12@gmail.com>
+Date:   Wed Nov 15 11:39:43 2017 -0500
+
+    prueba gem file
+
+[33mcommit 364ae44fccf6388ebd16cf66f47f69809f35c50d[m
+Author: javier <javieresos12@gmail.com>
+Date:   Wed Nov 15 10:46:28 2017 -0500
+
+    gem file, annotate comentado
+
+[33mcommit 16eb4225bf457f46ec374797483d399caa8b75a6[m
+Author: Andres <afelipe0113@gmail.com>
+Date:   Wed Nov 15 02:36:30 2017 -0500
+
+    Base para el proyecto de desarrollo web

@@ -10,7 +10,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171118190113) do
+ActiveRecord::Schema.define(version: 20171119045524) do
+
+  create_table "asignaciones", force: :cascade do |t|
+    t.integer "persona_id"
+    t.string "fecha"
+    t.integer "idEstadoPersonaEquipo"
+    t.integer "eliminado"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["persona_id"], name: "index_asignaciones_on_persona_id"
+  end
 
   create_table "personas", force: :cascade do |t|
     t.string "nombre"

@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Personas</h1>
-
+       
 <table class="table">
   <thead>
     <tr>
@@ -31,9 +31,9 @@
         <td><%= persona.idArea %></td>
         <td><%= persona.idCargo %></td>
         <td><%= persona.idTipoIdentificacion %></td>
-        <td><%= link_to 'Show', persona %></td>
-        <td><%= link_to 'Edit', edit_persona_path(persona) %></td>
-        <td><%= link_to 'Destroy', persona, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+       <!--  <td><%= link_to 'Show', persona %></td>
+         <td><%= link_to 'Edit', edit_persona_path(persona) %></td>-->
+        <!--<td><%= link_to 'Destroy', persona, method: :delete, data: { confirm: 'Are you sure?' } %></td>-->
       </tr>
     <% end %>
   </tbody>
@@ -41,4 +41,4 @@
 
 <br>
 
-<%= link_to 'New Persona', new_persona_path %>
+<%= link_to 'Nuevo', new_persona_path, class:"btn btn-primary" %>
